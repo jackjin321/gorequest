@@ -25,7 +25,7 @@ Sending request has never been as fun nor easier than this. It comes with lots o
 ## Installation
 
 ```bash
-$ go get github.com/parnurzeal/gorequest
+$ go get github.com/pefish/gorequest
 ```
 
 ## Documentation
